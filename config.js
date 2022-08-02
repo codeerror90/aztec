@@ -40,7 +40,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = ''
-global.author = '[ Aztec~Bot - MD ]'
+global.author = '[ Aztec~Bot-by Hermes ]'
 
 global.wait = '*↻ Esperɑ soy lentɑ. . .*'
 global.error = '*☓ Ocurrió un error inesperado*'
