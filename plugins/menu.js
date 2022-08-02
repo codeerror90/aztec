@@ -187,9 +187,9 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
                     mediaType: 'VIDEO',
                     mediaUrl: '',
                     title: '作成されたボット — 尼僧',
-                    body: 'By gɑtito ⾕',
+                    body: 'By Hermes',
                     thumbnail: miniurl,
-                    sourceUrl: 'https://chat.whatsapp.com/ELn6Ck7InoP6UmA3QiQsgo'
+                    sourceUrl: 'https://chat.whatsapp.com/ELnd6Ck7InP6UmA3QiQsgo'
                     }}
                 }
                 conn.sendMessage(m.chat, buttonMessage, { quoted: m })
