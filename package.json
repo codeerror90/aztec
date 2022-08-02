@@ -1,5 +1,5 @@
 {
-    "name": "nekobot-md",
+    "name": "Aztec~Bot",
     "version": "1.2.5",
     "description": "WhatsApp Bot Multi Device",
     "main": "index.js",
@@ -26,16 +26,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/FG98F/dylux-fg",
+    "homepage": "https://github.com/",
     "author": {
-        "name": "g4tito"
+        "name": "Hermes"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/FG98F/dylux-fg.git"
+        "url": "git+https://github.com/"
     },
     "bugs": {
-        "url": "https://github.com/FG98F/dylux-fg/issues"
+        "url": "https://github.com/"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
