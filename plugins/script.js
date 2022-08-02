@@ -1,5 +1,5 @@
 let handler = async function (m, { conn, __dirname }) {
- m.reply(`*Github de este bot:*\nhttps://github.com/g4tito/lolibot-md`)
+ m.reply(`*Github de este bot:*\nhttps://github.com/`)
 }
 
 handler.help = ['script']
