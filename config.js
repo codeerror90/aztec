@@ -8,15 +8,15 @@ const hoy = new Date(dnw);
 let dtw = hoy.toLocaleDateString()
 
 global.owner = [
-  ['51940617554', '「gatitoツ」', true], 
-  ['5356588048'], 
-  ['5493885839638'], 
-  ['573125484672'] 
+  ['5218333659697', '「HERMES」', true], 
+  ['5218331898686'], 
+  ['5493585723425'], 
+  ['519818083006'] 
   
 ] //Numeros de owner 
 
-global.mods = ['50246028932'] // Moderadores
-global.prems = ['50489079501', '5219631769130', '573125484672']  // El usuario Premium tiene diamantes ilimitado
+global.mods = ['5218334160298'] // Moderadores
+global.prems = ['5218334160298', '5493585723425', '519818083006']  // El usuario Premium tiene diamantes ilimitado
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -40,14 +40,14 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = ''
-global.author = '[ NekoBot - MD ]'
+global.author = '[ Aztec~Bot - MD ]'
 
 global.wait = '*↻ Esperɑ soy lentɑ. . .*'
 global.error = '*☓ Ocurrió un error inesperado*'
 
-global.igfg = '\n▢ Sígueme en Instagram\nhttps://www.instagram.com/fg98._\n' 
-global.fgsc = 'https://github.com/FG98F/dylux-fg' 
-global.fgyt = 'https://youtube.com/fg98f'
+global.igfg = '\n▢ Sígueme en Instagram\nhttps://www.instagram.com._\n' 
+global.fgsc = 'https://github.com/' 
+global.fgyt = 'https://youtube.com/'
 
 global.multiplier = 69 // Cuanto más alto, más difícil subir de nivel
 
