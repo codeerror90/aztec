@@ -21,7 +21,7 @@ say('NekoBot MD', {
   align: 'center',
   gradient: ['red', 'magenta']
 })
-say('Created By Gatito', {
+say('Created By Hermes', {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']
