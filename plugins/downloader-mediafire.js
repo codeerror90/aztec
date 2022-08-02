@@ -13,7 +13,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
 ▢ *Subido:* ${aploud}
 `.trim()
     m.reply(global.wait)
-    await conn.sendFile(m.chat, url, 'Minecraft PE 1.19.0.05 Oficial - (by gatito).apk', '', m, null, { mimetype: 'application/vnd.android.package-archive', asDocument: true })
+    await conn.sendFile(m.chat, url, 'Minecraft PE 1.19.0.05 Oficial - (by hermes).apk', '', m, null, { mimetype: 'application/vnd.android.package-archive', asDocument: true })
 }
 
 handler.help = ['mediafire']
